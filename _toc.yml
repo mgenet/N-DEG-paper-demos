@@ -4,4 +4,6 @@
 format: jb-book
 root: index
 chapters:
-- file: tuto_warp
+- file: Fig1-2-3-4
+- file: Fig5
+- file: Fig6

@@ -1,3 +1,3 @@
-# Welcome to the dolfin_warp tutorials!
+# Welcome to [Genet, 2023]'s demos!
 
-Interactive tutorials can be found at https://mgenet.gitlabpages.inria.fr/dolfin_warp-tutorials/index.html.
+Interactive demos can be found at https://mgenet.gitlabpages.inria.fr/n-deg-paper/index.html.
