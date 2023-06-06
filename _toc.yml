@@ -4,6 +4,6 @@
 format: jb-book
 root: index
 chapters:
-- file: Fig1-2-3-4
-- file: Fig5
-- file: Fig6
+- file: demos/Fig1-2-3-4
+- file: demos/Fig5
+- file: demos/Fig6
