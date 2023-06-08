@@ -17,8 +17,8 @@ jupyter nbextension enable varInspector/main
 
 cd
 
-echo "alias ll=\"ls -l\"" >> ~/.bash_aliases
-echo "alias la=\"ls -la\"" >> ~/.bash_aliases
+echo "alias ll=\"ls -lh\"" >> ~/.bash_aliases
+echo "alias la=\"ls -lah\"" >> ~/.bash_aliases
 
 git clone https://github.com/aschn/gnuplot-colorbrewer.git
 echo "set loadpath \"/home/jovyan/gnuplot-colorbrewer/diverging:/home/jovyan/gnuplot-colorbrewer/qualitative:/home/jovyan/gnuplot-colorbrewer/sequential\"" > .gnuplot
