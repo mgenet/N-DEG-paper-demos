@@ -6,7 +6,8 @@
 ###                                                                          ###
 ################################################################################
 
-FROM registry.gitlab.inria.fr/mgenet/n-deg-paper-demos:latest
+# FROM registry.gitlab.inria.fria.fr/mgenet/n-deg-paper-demos:latest
+FROM ghcr.io/mgenet/n-deg-paper-demos:latest
 
 # Fix ImageMagick, cf. https://stackoverflow.com/a/59193253
 USER root
